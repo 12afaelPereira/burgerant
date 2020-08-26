@@ -77,6 +77,9 @@ p{
     padding-bottom: 50px;
 }
 
+.offers{
+    overflow-x: hidden !important;
+}
 /* address */
 address{
     padding-bottom: 30px;
