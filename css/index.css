@@ -1,0 +1,128 @@
+html{
+    scroll-behavior: smooth;
+}
+
+p{
+    text-align: justify;
+    line-height: 2em;
+}
+
+/* titles */
+.about-title,
+.offer-title,
+.book-title,
+.directions-title{
+    padding: 50px !important;
+}
+.about-title{
+    margin-top: 0;
+}
+
+/* icons */
+.hamburger-icon{
+    width: 30px;
+    margin-right: 10px;
+}
+.btn-icon{
+    margin-right: 0 !important;
+}
+
+/* slider */
+.slider,
+.slides{
+    height: 800px !important;
+}
+
+.slider h3{
+    margin-top: 100px !important;
+}
+
+.burger-img{
+    width: 40%;
+}
+
+/* map */
+.map-responsive{
+    display: flex;
+    justify-content: center;
+
+    padding-bottom: 50px;
+}
+
+/* buttons */
+.book-btn-wrap{
+    margin-left: 10px !important;
+}
+
+.book-btn{
+    text-transform: none;
+    width: 90%;
+}
+
+/* socials icons */
+.facebook,
+.instagram,
+.twitter{
+    margin-right: 20px;
+    color: #fff;
+}
+
+.twitter{
+    margin-right: 0;
+}
+
+/* wrapper */
+.book-wrapper,
+.history-wrapper{
+    padding-bottom: 50px;
+}
+
+/* address */
+address{
+    padding-bottom: 30px;
+}
+
+@media (min-width: 1025px) and (max-width: 1480px) {
+    
+    /* offers */
+    .offers{
+        width: 45%;
+    }
+
+    .card-offer{
+        height: 100% !important;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    /* navbar */
+    .hamburger-icon{
+        margin-top: 30px;  
+    }
+
+    /* slider */
+    .slider,
+    .slides{
+    height: 400px !important;
+    }
+
+    .slider h3{
+        margin-top: 30px !important;
+    }
+
+    /* burger img's */
+    .burger-img{
+        width: 90%;
+    }
+
+    /* offers */
+    .card-offer{
+        height: 100% !important;
+    }
+
+    /* map */
+    .map-responsive{
+        padding-bottom: 0;
+    }
+}
