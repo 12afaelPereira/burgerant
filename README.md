@@ -9,3 +9,11 @@ The goals of this project were to study and apply the Materialize CSS Framework 
 - [Materialize CSS](materializecss.com/)
 - [AOS CSS - Animate On Scroll Library](https://michalsnik.github.io/aos/)
 - [Font Awesome](fontawesome.com/)
+
+<br>
+
+### Screenshot
+
+<br>
+
+![Sreenshot](https://github.com/12afaelPereira/burgerant/blob/master/screenshot.png)
