@@ -76,6 +76,9 @@ p{
 .history-wrapper{
     padding-bottom: 50px;
 }
+.contact > span{
+    padding-left: 0 !important;
+}
 
 .offers{
     overflow-x: hidden !important;
